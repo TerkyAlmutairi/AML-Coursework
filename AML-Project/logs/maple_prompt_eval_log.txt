@@ -1,7 +1,7 @@
-Evaluation Results - MaPLe Prompt Learner
-==================================================
-Caltech101: 0.67%
-Food-101: 0.67%
-Stanford Cars: 0.67%
-CIFAR-10: 10.33%
-FGVC Aircraft: 1.00%
+Evaluation Results - MaPLe Prompt Learner
+==================================================
+Caltech101: 82.33%
+Food-101: 80.47%
+Stanford Cars: 61.18%
+CIFAR-10: 88.69%
+FGVC Aircraft: 28.32%

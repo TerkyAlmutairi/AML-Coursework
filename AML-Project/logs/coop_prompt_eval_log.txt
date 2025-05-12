@@ -1,7 +1,7 @@
-Evaluation Results - CoOp Prompt Learner (Subset, Fast Mode)
-==================================================
-Caltech101: 3.53%
-Food-101: 0.80%
-Stanford Cars: 0.53%
-CIFAR-10: 8.73%
-FGVC Aircraft: 1.47%
+Evaluation Results - CoOp Prompt Learner (Subset, Fast Mode)
+==================================================
+Caltech101: 82.61%
+Food-101: 0.00%
+Stanford Cars: 65.77%
+CIFAR-10: 88.51%
+FGVC Aircraft: 29.18%
