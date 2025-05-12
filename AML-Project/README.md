@@ -59,3 +59,16 @@ bash
 Copy
 Edit
 python generate_attention_maps.py
+
+## 🔧 Dataset Setup (Manual)
+
+To run the project, download and extract the following datasets into the `data/` directory:
+
+- **Caltech101**: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+- **Food-101**: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+- **Stanford Cars**: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+- **CIFAR-10**: https://www.cs.toronto.edu/~kriz/cifar.html
+- **FGVC Aircraft**: https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
+
+Each dataset must be placed under `data/{dataset_name}/` and formatted using PyTorch’s `ImageFolder` layout.
+
