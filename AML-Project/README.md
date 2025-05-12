@@ -66,7 +66,7 @@ To run the project, download and extract the following datasets into the `data/`
 
 - **Caltech101**: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 - **Food-101**: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
-- **Stanford Cars**: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+- **Stanford Cars**: https://ai.stanford.edu/~jkrause/cars/car_dataset.html / https://www.kaggle.com/datasets/eduardo4jesus/stanford-cars-dataset
 - **CIFAR-10**: https://www.cs.toronto.edu/~kriz/cifar.html
 - **FGVC Aircraft**: https://www.robots.ox.ac.uk/~vgg/data/fgvc-aircraft/
 
