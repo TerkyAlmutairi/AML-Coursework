@@ -1,9 +1,0 @@
-Zero-Shot Accuracy Report with 80 Handcrafted Prompts
-==================================================
-Caltech101: 81.77%
-FGVC Aircraft: 46.73%
-Food-101: 84.10%
-Stanford Cars: 58.62%
-CIFAR-10: 90.14%
-
-Chart saved as zero_shot_prompt_ensemble.png

@@ -1,7 +1,0 @@
-Evaluation Results - PromptSRC Learner
-==================================================
-Caltech101: 14.67%
-Food-101: 1.00%
-Stanford Cars: 0.67%
-CIFAR-10: 13.33%
-FGVC Aircraft: 1.00%

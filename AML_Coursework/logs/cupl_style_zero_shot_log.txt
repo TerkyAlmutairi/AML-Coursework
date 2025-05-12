@@ -1,7 +1,0 @@
-CuPL-style Zero-Shot Prompt Evaluation Results
-==================================================
-FGVC Aircraft: 24.03%
-Caltech101: 80.39%
-Food-101: 84.32%
-Stanford Cars: 58.97%
-CIFAR-10: 89.96%
