@@ -72,3 +72,5 @@ To run the project, download and extract the following datasets into the `data/`
 
 Each dataset must be placed under `data/{dataset_name}/` and formatted using PyTorch’s `ImageFolder` layout.
 
+link for datasets: https://drive.google.com/drive/folders/1qV-km9XAajp5M_Jx36kkVbi_BacGvwpG?usp=sharing
+
